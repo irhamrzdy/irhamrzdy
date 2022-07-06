@@ -3,8 +3,8 @@
 I am an Backend Developer
 
 :rocket: Stack :
-:yellow_heart: JavaScript
-:blue_heart: PHP
+- :yellow_heart: JavaScript
+- :blue_heart: PHP
 
 <!--
 **irhamrizaldy/irhamrizaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
