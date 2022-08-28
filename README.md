@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Boy with Coding as Hobbies?
+I'm a Boy with Coding as hobbies?
 
 :rocket: Stack :
 - :yellow_heart: JavaScript
