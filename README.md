@@ -2,6 +2,8 @@
 
 I'm a Boy with Coding as hobbies?
 
+Currently work as Backend Web Developer. Which produce API for Frontend, but sometimes work as Fullstack also :zzz:.
+
 Want to know more about me? Just looking to get :coffee: ? Reach me out via email: irhamrzdy@gmail.com
 
 <!--
