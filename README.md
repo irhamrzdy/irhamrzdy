@@ -2,10 +2,6 @@
 
 I'm a Boy with Coding as hobbies?
 
-:rocket: Stack :
-- :yellow_heart: JavaScript
-- :blue_heart: PHP
-
 Want to know more about me? Just looking to get :coffee: ? Reach me out via email: irhamrzdy@gmail.com
 
 <!--
