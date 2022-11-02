@@ -3,7 +3,7 @@
 I'm a Boy with Coding as hobbies?
 
 Well, these hobby turns into my job, lmao:laughing:. <br/>
-Currently I am work as Backend Web Developer. Which produce API for Frontend, but sometimes as Fullstack also :zzz:.
+Currently I am a Freelance Backend Web Developer, but sometimes as Fullstack also :zzz:.
 
 Want to know more about me? Just looking to get :coffee: ? Reach me out via email: irhamrzdy@gmail.com
 
