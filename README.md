@@ -2,9 +2,7 @@
 
 I'm a Boy with Coding as hobbies?
 
-Well, these hobby turns into my job, lmao:laughing:. <br/>
-Currently, I am a Freelance Backend Web Developer but sometimes Fullstack also :zzz:.
-
+Well,
 Want to know more about me? Just looking to get :coffee: ? Reach me out via email: irhamrzdy@gmail.com
 
 <!--
