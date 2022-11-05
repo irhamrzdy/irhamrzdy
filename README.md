@@ -2,7 +2,7 @@
 
 I'm a Boy with Coding as hobbies?
 
-Well, want to know more about me? Just looking to get :coffee: ? Reach me out via email: irhamrzdy@gmail.com
+Well, want to know more about me? Just looking to get :coffee: ? <br/>Reach me out via email: irhamrzdy@gmail.com
 
 <!--
 **irhamrizaldy/irhamrizaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
