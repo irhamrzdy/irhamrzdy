@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me:
-🌱 I'm a SAP ABAP Developer <br>
+🌱 About me? I used to be a Backend Engineer but now I got and take opportunities in SAP as SAP ABAP Developer <br>
 
 
 ### Stack:
