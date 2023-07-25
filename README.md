@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me:
-🌱 Currently working as SAP ABAP Developer<br>
+🌱 I'm a SAP ABAP Developer <br>
 
 
 ### Stack:
